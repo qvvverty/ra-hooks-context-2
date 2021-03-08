@@ -1,0 +1,11 @@
+.component-container {
+  margin-top: 30px;
+  padding: 30px;
+
+  border: 1px solid;
+}
+
+.data-header {
+  display: block;
+  margin-bottom: 5px;
+}
