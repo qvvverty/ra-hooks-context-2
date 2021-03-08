@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ra-hooks-context-2-front/static/css/main.83662c10.chunk.css",
+    "main.js": "/ra-hooks-context-2-front/static/js/main.cbf170cd.chunk.js",
+    "main.js.map": "/ra-hooks-context-2-front/static/js/main.cbf170cd.chunk.js.map",
+    "runtime-main.js": "/ra-hooks-context-2-front/static/js/runtime-main.73fb3b06.js",
+    "runtime-main.js.map": "/ra-hooks-context-2-front/static/js/runtime-main.73fb3b06.js.map",
+    "static/js/2.78ffcd2f.chunk.js": "/ra-hooks-context-2-front/static/js/2.78ffcd2f.chunk.js",
+    "static/js/2.78ffcd2f.chunk.js.map": "/ra-hooks-context-2-front/static/js/2.78ffcd2f.chunk.js.map",
+    "static/js/3.c14e6018.chunk.js": "/ra-hooks-context-2-front/static/js/3.c14e6018.chunk.js",
+    "static/js/3.c14e6018.chunk.js.map": "/ra-hooks-context-2-front/static/js/3.c14e6018.chunk.js.map",
+    "index.html": "/ra-hooks-context-2-front/index.html",
+    "static/css/main.83662c10.chunk.css.map": "/ra-hooks-context-2-front/static/css/main.83662c10.chunk.css.map",
+    "static/js/2.78ffcd2f.chunk.js.LICENSE.txt": "/ra-hooks-context-2-front/static/js/2.78ffcd2f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73fb3b06.js",
+    "static/js/2.78ffcd2f.chunk.js",
+    "static/css/main.83662c10.chunk.css",
+    "static/js/main.cbf170cd.chunk.js"
+  ]
+}
