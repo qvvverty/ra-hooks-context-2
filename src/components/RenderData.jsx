@@ -1,7 +1,7 @@
 import useJsonFetch from './hooks/useJsonFetch';
 
 export default function RenderData() {
-  const [data] = useJsonFetch(process.env.REACT_APP_BACKEND_URL + 'data');
+  const { data } = useJsonFetch(process.env.REACT_APP_BACKEND_URL + 'data');
 
   return (
     <ul className="component-container">

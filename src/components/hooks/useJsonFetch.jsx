@@ -26,5 +26,5 @@ export default function useJsonFetch(url, opts) {
     fetchData();
   }, [url]);
 
-  return [data, isLoading, hasError];
+  return { data, isLoading, hasError };
 }
